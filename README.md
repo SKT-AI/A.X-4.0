@@ -1,6 +1,10 @@
+<img src="./A.X_Primary.png" alt="A.X Logo" width="300" />
+
 # A.X 4.0: 기업용 한국어 특화 대규모 언어 모델
 
-SK텔레콤이 한국어 처리 능력과 기업 활용성을 높인 대규모 언어 모델(LLM) **A.X 4.0**을 2025년 4월 30일에 출시하였습니다.
+<p align="left"><a href="README.en.md"><strong>🇺🇸 View English README</strong></a></p>
+
+SK텔레콤이 한국어 처리 능력과 기업 활용성을 높인 대규모 언어 모델(LLM) **A.X 4.0** (에이닷엑스 4.0)을 2025년 4월 30일에 출시하였습니다.
 A.X 4.0은 오픈소스 모델인 [Qwen2.5](https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e)에 방대한 한국어 데이터를 추가로 학습시켜 국내 비즈니스 환경에 최적화된 성능을 발휘합니다.
 
 ## A.X 4.0, 무엇이 다른가요?

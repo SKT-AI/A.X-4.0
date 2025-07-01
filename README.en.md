@@ -1,8 +1,9 @@
-![A.X Logo](./A.X_Primary.png)
+<img src="./A.X_Primary.png" alt="A.X Logo" width="300" />
 
 # A.X 4.0: Foundation Model Specialized in Korean, Optimized for Enterprise Applications
 
-[View Korean README](README.md)
+<p align="left"><a href="README.md"><strong>🇰🇷 View Korean README</strong></a></p>
+
 SK Telecom released **A.X 4.0** (pronounced "A dot X"), a large language model (LLM) optimized for Korean-language understanding and enterprise deployment, on April 30, 2025. Built on the open-source [Qwen2.5](https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e) model, A.X 4.0 has been further trained with large-scale Korean datasets to deliver outstanding performance in real-world business environments.
 
 ## What Sets A.X 4.0 Apart?

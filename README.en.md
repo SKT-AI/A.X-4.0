@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./A.X_Primary.png" alt="A.X Logo" width="300"/>
+  <img src="./A.X_logo.png" alt="A.X Logo" width="300"/>
 </div>
 <br>
 <p align="center"> <a href="https://huggingface.co/collections/skt/ax-4-68637ebaa63b9cc51925e886">🤗 Models</a>   |   <a href="https://sktax.chat/chat">💬 Chat</a>   |   <a href="https://github.com/SKT-AI/A.X-4.0">🖥️ Github</a> </p>

@@ -1,4 +1,8 @@
-<img src="./A.X_Primary.png" alt="A.X Logo" width="300" />
+<div align="center">
+  <img src="./A.X_logo.png" alt="A.X Logo" width="300"/>
+</div>
+<br>
+<p align="center"> <a href="https://huggingface.co/collections/skt/ax-4-68637ebaa63b9cc51925e886">🤗 Models</a>   |   <a href="https://sktax.chat/chat">💬 Chat</a>   |   <a href="https://github.com/SKT-AI/A.X-4.0">🖥️ Github</a> </p>
 
 # A.X 4.0: 기업용 한국어 특화 대규모 언어 모델
 
@@ -59,7 +63,7 @@ A.X 4.0과 더불어 추론형 모델 A.X 4.1의 주요 벤치마크 결과를 �
 
 ### A.X 4.0 (지식형 모델)
 
-| 평가지표 | 측정 영역 | A.X 4.0 (72B) | GPT-4o | Qwen3 (235B MoE) |
+| 평가지표 | 측정 영역 | A.X-4.0 (72B) | GPT-4o | Qwen3 (235B MoE) |
 |:---|:---|:---:|:---:|:---:|
 | **KMMLU** | 한국어 전문 지식 이해 | 78.3 | 72.5 | 70.6 |
 | **CLIcK** | 한국 문화 맥락 이해 | 83.5 | 80.2 | 77.9 |
@@ -69,7 +73,7 @@ A.X 4.0과 더불어 추론형 모델 A.X 4.1의 주요 벤치마크 결과를 �
 
 ### A.X 4.1 (추론형 모델)
 
-| 평가지표 | 측정 영역 | A.X 4.1 (72B) | DeepSeek-R1 (671B MoE) | DeepSeek-R1-0528 (671B MoE) |
+| 평가지표 | 측정 영역 | A.X-4.1 (72B) | DeepSeek-R1 (671B MoE) | DeepSeek-R1-0528 (671B MoE) |
 |:---|:---|:---:|:---:|:---:|
 | **MMLU** | 글로벌 전문 지식 이해 | 88.0 | 90.8 | 92.0 |
 | **KMMLU** | 한국어 전문 지식 이해 | 73.3 | 76.1 | 70.4 |

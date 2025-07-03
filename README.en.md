@@ -60,7 +60,7 @@ A.X 4.1 is a reasoning model that is being developed alongside A.X 4.0. Here is 
 
 ### A.X 4.0 (Knowledge-Oriented Model)
 
-| Metric        | Task                             | A.X-4.0 (72B) | GPT-4o   | Qwen3 (235B MoE) |
+| Metric        | Task                             | A.X 4.0 (72B) | GPT-4o   | Qwen3 (235B MoE) |
 | ------------- | -------------------------------- | ------------- | -------- | ---------------- |
 | **KMMLU**     | Professional knowledge in Korean | 78.3          | 72.5     | 70.6             |
 | **CLIcK**     | Korean culture                   | 83.5          | 80.2     | 77.9             |
@@ -69,7 +69,7 @@ A.X 4.1 is a reasoning model that is being developed alongside A.X 4.0. Here is 
 
 ### A.X 4.1 (Reasoning-Oriented Model)
 
-| **Metric**    | **Task**                         | **A.X-4.1 (72B)** | **DeepSeek-R1 (671B MoE)** | **DeepSeek-R1-0528 (671B MoE)** |
+| **Metric**    | **Task**                         | **A.X 4.1 (72B)** | **DeepSeek-R1 (671B MoE)** | **DeepSeek-R1-0528 (671B MoE)** |
 | ------------- | -------------------------------- | ----------------- | -------------------------- | ------------------------------- |
 | **MMLU**      | Professional knowledge           | 88.0              | 90.8                       | 92.0                            |
 | **KMMLU**     | Professional knowledge in Korean | 73.3              | 76.1                       | 70.4                            |

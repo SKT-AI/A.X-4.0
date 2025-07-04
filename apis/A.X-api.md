@@ -113,7 +113,3 @@ ChatCompletion(
     prompt_logprobs=None
 )
 ```
-
-## API limits
-
-10 requests per minute

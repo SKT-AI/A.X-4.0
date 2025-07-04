@@ -2,7 +2,7 @@
   <img src="./assets/A.X_logo.png" alt="A.X Logo" width="300"/>
 </div>
 <br>
-<p align="center"> <a href="https://huggingface.co/collections/skt/ax-4-68637ebaa63b9cc51925e886">🤗 Models</a>   |   <a href="https://sktax.chat/chat">💬 Chat</a>   |   <a href="https://github.com/SKT-AI/A.X-4.0">🖥️ Github</a> </p>
+<p align="center"> <a href="https://huggingface.co/collections/skt/ax-4-68637ebaa63b9cc51925e886">🤗 Models</a>   |   <a href="https://sktax.chat/chat">💬 Chat</a>   |   <a href="./apis/README.md">📬 APIs (FREE!)</a>   |   <a href="https://github.com/SKT-AI/A.X-4.0">🖥️ Github</a> </p>
 
 # A.X 4.0: Foundation Model Specialized in Korean, Optimized for Enterprise Applications
 
@@ -89,7 +89,7 @@ A.X 4.0 can be integrated into various enterprise applications:
 
 ## Deployment Options
 
-- **API Service**
+- [**API Service**](./apis/README.md)
 
   - Usage-based pricing
   - SDKs and code samples for common programming languages

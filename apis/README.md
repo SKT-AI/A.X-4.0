@@ -1,15 +1,15 @@
-# A.X API documents
+# A.X 4.0 API documents
 
-This API documents describes the RESTful APIs that you can interact with **A.X** 
+This API documents describes the RESTful APIs that you can interact with **A.X 4.0** 
 
 ## Authentication
 
-**A.X APIs are FREE now!** We provide public key for anonymous users.
+**A.X 4.0 APIs are FREE now!** We provide public key for anonymous users.
 ```bash
 ADOTX_API_KEY="sktax-XyeKFrq67ZjS4EpsDlrHHXV8it"
 ```
 
-## Create a model response
+## Create a A.X 4.0 model response
 
 `POST https://guest-api.sktax.chat/v1`
 
@@ -113,7 +113,3 @@ ChatCompletion(
     prompt_logprobs=None
 )
 ```
-
-## API limits
-
-10 requests per minute

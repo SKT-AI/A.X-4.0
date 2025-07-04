@@ -2,7 +2,7 @@
   <img src="./assets/A.X_logo.png" alt="A.X Logo" width="300"/>
 </div>
 <br>
-<p align="center"> <a href="https://huggingface.co/collections/skt/ax-4-68637ebaa63b9cc51925e886">🤗 Models</a>   |   <a href="https://sktax.chat/chat">💬 Chat</a>   |   <a href="https://github.com/SKT-AI/A.X-4.0">🖥️ Github</a> </p>
+<p align="center"> <a href="https://huggingface.co/collections/skt/ax-4-68637ebaa63b9cc51925e886">🤗 Models</a>   |   <a href="https://sktax.chat/chat">💬 Chat</a>   |   <a href="./apis/README.md">📬 APIs (FREE!)</a>   |   <a href="https://github.com/SKT-AI/A.X-4.0">🖥️ Github</a> </p>
 
 # A.X 4.0: 기업용 한국어 특화 대규모 언어 모델
 
@@ -95,7 +95,7 @@ A.X 4.0은 다양한 기업 업무에 활용될 수 있습니다.
 
 A.X 4.0은 다음과 같은 방식으로 제공될 예정입니다.
 
-- API 서비스
+- [API 서비스](./apis/README.md)
 
   - 사용량에 따라 비용을 내는 합리적인 요금제를 제공합니다.
   - 주요 개발 언어로 바로 사용할 수 있도록 다양한 예제 코드를 제공합니다.

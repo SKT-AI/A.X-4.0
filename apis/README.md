@@ -4,10 +4,8 @@ This API documents describes the RESTful APIs that you can interact with **A.X 4
 
 ## Authentication
 
-**A.X 4.0 APIs are FREE now!** We provide public key for anonymous users.
-```bash
-ADOTX_API_KEY="sktax-XyeKFrq67ZjS4EpsDlrHHXV8it"
-```
+An API key is required to access A.X 4.0 APIs.  
+Anonymous access is no longer supported.
 
 ## Create a A.X 4.0 model response
 
